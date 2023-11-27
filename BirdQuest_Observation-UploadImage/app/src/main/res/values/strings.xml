@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">BirdQuest</string>
+    <string name="no_account_sign_up_here">No Account ,<b>Sign Up Here!</b></string>
+    <string name="already_registered_login_here">Already Registered, <b>Login Here!</b></string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYXNod2FyaSIsImEiOiJjbGt3aDA3N3kwa2c3M2Ntejl1anN2YWp6In0.fHbcNauyxuLOLilwWxJ8jg</string>
+    <string name="user_location_permission_explanation">This app needs location permissions in order to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You did not grant location permissions.</string>
+    <string name="welcome"><b>Discover birds near you and in all your trips</b></string>
+    <string name="welcome1">Get outside!! Record your birding experiences</string>
+    <string name="tip">List of Birds in \nSouth Africa</string>
+    <string name="south_african_birds">
+<b>1.African Penguin\n (Spheniscus demersus):</b>\n
+   - Known as the "jackass penguin" due to its donkey-like braying sound.\n
+   - It\'s a small, black-and-white penguin species found along the coasts of South Africa.\n
+\n
+<b>2.Southern Yellow-Billed Hornbill\n (Tockus leucomelas):</b>\n
+   - Recognizable by its long, yellow bill and black and white plumage.\n
+   - Often seen in pairs or small groups and feeds on insects and small animals.\n
+\n
+<b>3.Cape Weaver\n (Ploceus capensis):</b>\n
+   - A small bird known for its bright yellow plumage, especially in males.\n
+   - Constructs intricate, hanging nests from grass and reeds.\n
+\n
+<b>4.African Fish Eagle\n (Haliaeetus vocifer):</b>\n
+   - A majestic bird of prey with a distinctive white head and tail and a dark body.\n
+   - Often spotted near bodies of water, where it hunts for fish.\n
+\n
+<b>5.African Hoopoe \n(Upupa africana):</b>\n
+   - Known for its distinctive "hoop-hoop-hoop" call.\n
+   - Has a distinctive crown of feathers on its head and a long, curved bill.\n
+\n
+<b>6.Lilac-Breasted Roller \n(Coracias caudatus):</b>\n
+   - One of Africa\'s most colorful birds, with stunning lilac, blue, and green plumage.\n
+   - Often perches prominently and feeds on insects.\n
+\n
+<b>7.Crowned Crane\n (Balearica regulorum):</b>\n
+   - Recognizable by its striking golden crown of feathers and long legs.\n
+   - Typically found near wetlands and grasslands.\n
+\n
+<b>8.Greater Flamingo\n(Phoenicopterus roseus):</b>\n
+   - Tall wading birds with long necks and distinctive pink plumage.\n
+   - Often seen in large flocks in saline and alkaline lakes.\n
+\n
+<b>9.Southern Ground Hornbill\n (Bucorvus leadbeateri):</b>\n
+   - Large, terrestrial birds with black plumage and striking red facial skin.\n
+   - Known for their deep, booming calls and ground-dwelling habits.\n
+\n
+<b>10.Blue Crane\n (Anthropoides paradiseus):</b>\n
+   -The Blue Crane is a striking bird with predominantly blue-gray plumage and a distinctive crown of feathers on its head.\n
+   -It is known for its graceful dance displays during courtship, where it leaps into the air and pirouettes.\n
+\n
+<b>11.Secretarybird \n(Sagittarius serpentarius):</b>\n
+    - Large, terrestrial bird of prey with long legs and a crest of feathers on its head.\n
+    - Hunts snakes and other small animals by stomping on them.\n
+\n
+<b>12.Pied Kingfisher \n(Ceryle rudis):</b>\n
+    - Recognizable by its black and white plumage and distinctive hovering flight.\n
+    - Often seen near bodies of water, where it dives to catch fish.\n
+\n
+These are just a few examples of the diverse birdlife found in South Africa. The country\'s varied landscapes provide habitats for a wide range of bird species, making it a popular destination for birdwatchers and wildlife enthusiasts.
+    </string>
+
+    <string name="bird_feeding_tips">
+        Feeding birds can be a rewarding and enjoyable activity, but it\'s important to do it responsibly to ensure the birds well-being.\n
+        Here are some tips on feeding birds:\n
+           <b>1.Choose the Right Food:</b>\n
+               - Different bird species have different dietary preferences. Research the types of birds in your area to determine what food they like. Common options include seeds, suet, nectar, and mealworms.\n
+               - Use high-quality bird food to provide essential nutrients. Avoid moldy or spoiled food, as it can be harmful to birds.\n
+            \n
+            <b>2.Use Appropriate Feeders:</b>\n
+               - Select bird feeders that are suitable for the types of birds you want to attract. Tube feeders, hopper feeders, platform feeders, and hummingbird feeders are some popular options.\n
+               - Ensure that the feeders are easy to clean to prevent the buildup of mold and disease.\n
+            \n
+            <b>3.Keep It Clean:</b>\n
+               - Regularly clean and disinfect your bird feeders to prevent the spread of diseases among birds. Use a solution of one part bleach to nine parts water for cleaning.\n
+               - Remove uneaten or spoiled food from feeders promptly.\n
+            \n
+            <b>4.Provide Fresh Water:</b>\n
+                - Birds need access to clean, fresh water for drinking and bathing. Consider adding a birdbath to your garden.\n
+                - Clean and refill the birdbath regularly to prevent the growth of algae and bacteria.\n
+            \n
+            <b>5.Choose a Safe Location:</b>\n
+                - Place feeders and birdbaths in a safe location, away from predators like cats. Ideally, position them near trees or shrubs where birds can find cover.\n
+                - Avoid placing feeders too close to windows to prevent bird collisions. If needed, use window decals or screens to make glass more visible to birds.\n
+            \n
+            <b>6.Offer a Variety:</b>\n
+                - Different bird species have different preferences, so offering a variety of food can attract a wider range of birds to your yard.\n
+                - Mix different types of seeds or provide a variety of feeders with different food options.\n
+            \n
+            <b>7.Be Consistent:</b>\n
+               - Birds rely on a steady food source, especially during harsh weather conditions. Try to maintain a consistent feeding schedule throughout the year.\n
+               - If you\'re going on vacation, ask a neighbor or friend to continue feeding the birds in your absence.\n
+            \n
+            <b>8.Patience:</b>\n
+               - It may take some time for birds to discover your feeding station. Be patient and give them time to find the food and feel comfortable in your yard.\n
+            \n
+            <b>9.Avoid Bread and Junk Food:</b>\n
+               - While it might be tempting to use bread as bird food, it offers little nutritional value and can be harmful to birds. Stick to bird-specific food.\n
+               - Avoid using salty or processed foods, as they can be harmful to birds health.\n
+            \n
+           <b>10.Respect Local Laws and Regulations:</b>\n
+               - Check if there are any local laws or regulations regarding bird feeding in your area, as some places may have restrictions or guidelines.\n
+    </string>
+
+    <string name="bid_songs_tips">
+    Bird songs are a fascinating and essential aspect of birdwatching. \nLearning to identify bird songs can greatly enhance your birdwatching experience. Here are some tips for birdwatchers on bird songs:\n
+\n
+    <b>1. Start with Common Species:</b>
+    \nBegin by learning the songs of common and easily recognizable bird species in your area. This will provide a solid foundation for more advanced bird song identification.\n
+\n
+    <b>2. Use Field Guides and Apps:</b>
+    \nInvest in a good field guide or use birding apps that include audio recordings of bird songs. These resources can help you match sounds to bird species.\n
+\n
+<b>3. Listen Actively:</b>
+    \nWhen you\'re out birdwatching, take the time to actively listen to the sounds around you. Try to isolate individual bird songs and calls from the surrounding noise.\n
+\n
+<b>4. Learn Phonetic Notation:</b>
+    \nBird songs are often represented using phonetic notation to mimic the sounds. Familiarize yourself with this notation to aid in remembering and communicating bird songs.\n
+\n
+<b>5. Record Bird Songs:</b>
+    \nIf you have a smartphone or a recording device, consider recording bird songs you encounter. Later, you can compare these recordings with bird song databases or seek help from experienced birdwatchers.\n
+\n
+<b>6.Use Memory Aids:</b>
+    \nCreate mnemonic devices or associations to help you remember bird songs. For example, you might associate a specific song with the phrase it sounds like.\n
+\n
+<b>7. Learn the Basics:</b>
+    \nUnderstand the basic components of bird songs, such as the introductory notes, trills, and repetitions. These patterns can be clues for identifying bird species.\n
+\n
+<b>8. Consider the Season:</b>
+    \nKeep in mind that bird songs can change with the season. Birds often have different songs for mating, territory defense, and other purposes.\n
+\n
+<b>9. Visual Cues:</b>
+    \nSometimes, observing a bird\'s behavior while it sings can provide important clues for identification. Note the bird\'s size, color, and markings.\n
+\n
+<b>10. Join Birdwatching Groups:</b>
+    \nParticipating in birdwatching groups or clubs can be a great way to learn from experienced birders. They can share their knowledge and help you identify bird songs in the field.\n
+\n
+ <b>11.Practice and Be Patient:</b>
+    \nLearning bird songs takes time and practice. Don\'t get discouraged if you don\'t identify songs immediately. Over time, your skills will improve.\n
+\n
+Learning to identify bird songs takes time and practice, but it can greatly enhance your birdwatching experience and allow you to connect with the natural world on a deeper level.</string>
+
+    <string name="bird_watching_tips">
+            1. Choose the Right Location:
+            \nVisit areas with diverse habitats, such as parks, wetlands, or forests, to spot a variety of bird species.\n
+            \n
+            2. Use Binoculars:
+            \n Invest in a good pair of binoculars to get a closer look at distant birds without disturbing them.\n
+            \n
+            3. Study Bird Field Guides:
+            \n Carry a field guidebook or use bird identification apps to help you identify different species.\n
+            \n
+            4. Be Patient:
+            \n Bird watching requires patience. Sit quietly and wait for the birds to come to you.\n
+            \n
+            5. Dress Discreetly:
+            \n Wear muted colors and avoid bright clothing to blend in with the surroundings and not scare away the birds.\n
+            \n
+            6. Learn Bird Calls:
+            \n Familiarize yourself with bird calls and songs to help you locate and identify birds by sound.\n
+            \n
+            7. Time of Day Matters:
+            \nBirds are most active during the early morning and late afternoon, so plan your outings accordingly.\n
+            \n
+            8. Keep a Journal:
+            \nTake notes and sketch what you observe to document your bird-watching experiences.\n
+            \n
+            9. Respect Wildlife:
+            \n Keep a safe distance, avoid disturbing nests, and never feed wild birds human food.\n
+            \n
+            10. Join a Bird-Watching Group:
+            \nConnect with fellow bird enthusiasts to learn from experienced birders and share your sightings.\n</string>
+
+
+    <string name="option_get_place">Get place</string>
+    <string name="default_info_title">Default Location</string>
+    <string name="default_info_snippet">No places found, because location permission is disabled.</string>
+    <string name="pick_place">Choose a place</string>
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+
+</resources>
