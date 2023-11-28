@@ -22,6 +22,7 @@ To get started with BirdQuest, follow the instructions below.
 Make sure you have the following software and tools installed before running the application:
 
 -[Android Studio](https://developer.android.com/studio): The official integrated development environment (IDE) for Android app development.
+
 -[Kotlin](https://kotlinlang.org/): The programming language used for developing the Android app.
 
 ## Installation
