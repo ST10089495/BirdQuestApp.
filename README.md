@@ -24,8 +24,6 @@ Make sure you have the following software and tools installed before running the
 -[Android Studio](https://developer.android.com/studio): The official integrated development environment (IDE) for Android app development.
 -[Kotlin](https://kotlinlang.org/): The programming language used for developing the Android app.
 
-- Software: Visual Studio Code (2022)
-
 ## Installation
 
 1.Clone the repository:
@@ -66,8 +64,9 @@ implementation 'com.google.firebase:firebase-auth:22.0.0'
 implementation 'com.google.firebase:firebase-firestore:24.0.0'
 implementation 'com.github.bumptech.glide:glide:4.12.0'
 implementation 'com.google.android.gms:play-services-maps:17.0.1'
-Make sure to check for the latest versions of these dependencies on their respective documentation pages.
 ```
+Make sure to check for the latest versions of these dependencies on their respective documentation pages.
+
 ## Features
 
 -Bird Species Tips: Get valuable tips and information on different bird species in South Africa.
