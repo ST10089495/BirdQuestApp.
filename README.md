@@ -29,7 +29,7 @@ Make sure you have the following software and tools installed before running the
 
 1.Clone the repository:
  ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/ST10089495/BirdQuestApp..git
  ```
 2.Open the project in Android Studio.
 
