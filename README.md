@@ -71,7 +71,9 @@ Make sure to check for the latest versions of these dependencies on their respec
 ## Features
 
 -Bird Species Tips: Get valuable tips and information on different bird species in South Africa.
+
 -User Authentication: Register and log in to the app to save and access your bird observations across devices.
+
 -Navigation Assistance: Navigate towards specific birds for a better birdwatching experience.
 
 ## Contributing
